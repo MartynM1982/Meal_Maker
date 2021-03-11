@@ -1,4 +1,4 @@
-# Meal Maker
-As a frequent diner, you love trying out new restaurants and experimenting with different foods. However, having to figure out what you want to order can be a time-consuming ordeal if the menu is big, and you want an easier way to be able to figure out what you are going to eat.
+# Team Stats
+We want to create and extract information about our favorite football team. We will create data using the JavaScript data structures: arrays, objects, etc.
 
-In this project, we’ll use JavaScript to randomly create a three-course meal based on what is available on a menu. We’ll keep running it until we’re satisfied with the generated meal!
+Once created, we can manipulate these data structures as well as gain insights from them. For example, we might want to get the total number of games the team has played, or the average score of all of their games.
